@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  
+  <MainButtonDef>
+    <defName>JournalsTab</defName>
+    <label>journals</label>
+    <description>A place to record game events for posterity.</description>
+    <tabWindowClass>Journals.MainTabWindow_Journals</tabWindowClass>
+    <order>75</order>
+  </MainButtonDef>
+
+</Defs>

@@ -1,0 +1,3 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\RimWorld_Journals\Source\RimWorld_Journals\obj\Debug\RimWorld_Journals.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\RimWorld_Journals\Assemblies\RimWorld_Journals.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\RimWorld_Journals\Source\RimWorld_Journals\obj\Debug\RimWorld_Journals.dll
